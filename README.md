@@ -9,6 +9,7 @@ Client 1.20.1 Made by @Fxlixss
 **Features**
 1. FPS
 2. Coordinates
-3. Menu (Press Right Shift)
-4. Zoom (Press c)
-5. Customizable Keybinds in Settings
+3. TNT-Timer
+4. Menu (Press Right Shift)
+5. Zoom (Press c)
+6. Customizable Keybinds in Settings
